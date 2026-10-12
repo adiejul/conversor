@@ -22,9 +22,10 @@ def main():
     num = float(input("Introduce la temperatura: "))
 
     if (opc == 1):
-        print(celsiusFarhenheit(num))
+        print(f"{num}ºC = {celsiusFarhenheit(num)}ºF")
+        
     elif (opc ==2):
-        print(farhenheitCelsius(num))
+        print(f"{num}ºF = {farhenheitCelsius(num)}ºC")
     else:
         print("La opcion no es válida")
 
