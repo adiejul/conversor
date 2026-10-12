@@ -1,0 +1,19 @@
+# Conversor
+
+### ¿Para qué sirve?
+Esta aplicación es un conversor de temperatura.
+
+Permite convertir:
+
+- Celsius a Farhenheit.
+- Farhenheit a Celsius.
+
+
+Este programa está hecho en Python, que se ejecuta por consola.
+
+### Mas infornación
+
+- [Instalación](instalacion.md) 
+- [Uso](uso.md).
+
+
