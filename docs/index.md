@@ -11,7 +11,7 @@ Permite convertir:
 
 Este programa está hecho en Python, que se ejecuta por consola.
 
-### Mas infornación
+### Mas información
 
 - [Instalación](instalacion.md) 
 - [Uso](uso.md).
