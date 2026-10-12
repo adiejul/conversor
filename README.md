@@ -1,6 +1,6 @@
 # Conversor de temperaturas
 
-Aplicacion de consola escrita en Python que convierte temperaturas entre grados Celsius y Farhenheit.
+Aplicacion de consola escrita en Python que convierte temperaturas entre grados Celsius y Fahrenheit.
 
 ## Requisitos
 
